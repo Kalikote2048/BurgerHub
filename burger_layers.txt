@@ -3,5 +3,6 @@ Burger Layers:
 3. Crispy Bacon
 2. Angus Patty
 3. Cheddar
+6. Fresh Avocado
 4. Crispy Lettuce
 5. Secret Sauce
