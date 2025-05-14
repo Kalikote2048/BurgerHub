@@ -4,7 +4,8 @@ Burger Layers:
 3. Angus Patty
 4. Cheddar
 5. Fresh Avocado
-6. Pickles
-7. Crispy Lettuce
-8. Tomato
-9. Secret Sauce
+6. Grilled Onions
+7. Pickles
+8. Crispy Lettuce
+9. Tomato
+10. Secret Sauce
