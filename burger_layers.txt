@@ -1,8 +1,8 @@
 Burger Layers:
 1. Brioche Bun
-3. Crispy Bacon
-2. Angus Patty
-3. Cheddar
-6. Fresh Avocado
-4. Crispy Lettuce
-5. Secret Sauce
+2. Crispy Bacon
+3. Angus Patty
+4. Cheddar
+5. Fresh Avocado
+6. Crispy Lettuce
+7. Secret Sauce
