@@ -8,5 +8,6 @@ Burger Layers:
 7. Pickles
 8. Crispy Lettuce
 9. Tomato
-10. Jalapenos
-11. Secret Sauce
+10. Roasted Garlic
+11. Jalapenos
+12. Secret Sauce
